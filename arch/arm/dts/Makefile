@@ -126,6 +126,7 @@ dtb-$(CONFIG_ARCH_ZYNQ) += zynq-zc702.dtb \
 	zynq-zc706.dtb \
 	zynq-zed.dtb \
 	zynq-zybo.dtb \
+	zynq-syzygy-hub.dtb \
 	zynq-microzed.dtb \
 	zynq-picozed.dtb \
 	zynq-topic-miami.dtb \
